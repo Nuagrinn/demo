@@ -1,2 +1,2 @@
 say-hello:
-	build\install\App\bin\App
+	echo "Hello, World!"
